@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"> 
+<html>
+<head>
+<title>Autorahoitus.com - edullinen autolaina autoluottojen hinnat autoleasing</title>
+<style type="text/css">
+<!-- 
+ul{padding:9px}
+li{padding:6px}
+body{background-color:#147} body,td,a,p{font-size:14px} 
+h1{text-align:center;font-size:32px;font-family:Georgia,Serif;color:#332245;background-color:#fff;padding-top:11px} 
+table{width:62%;margin-left:auto;margin-right:auto;background-color:#ffe;margin-top:12px;border: 8px dashed red}
+#footer{ color:#885;} footer a{ color:#884;}
+
+-->
+</style>
+</head>
+<body> <table><tr><td><h1>Autorahoitus.com</h1></td></tr></table> <table> <tr><td style="text-align:top" width="205">
+
+
+<script type="text/javascript">
+function lainoitus(){
+	form = document.laskuriLomake;
+	LoanAmount= form.LoanAmount.value;
+	DownPayment=0;
+	korko2 = form.korko.value/100;
+	Years= form.NumberOfMonths.value;
+	MonthRate=korko2/12;
+	NumPayments=Years;
+	Prin=LoanAmount-DownPayment;
+	MonthPayment=Math.floor((Prin*MonthRate)/(1-Math.pow((1+MonthRate),(-1*NumPayments)))*100)/100;
+	form.MonthlyPayment.value=MonthPayment ;
+}
+
+</script>
+
+
+<script type="text/javascript"><!-- 
+google_ad_client = "pub-3354762675531955"; 
+google_ad_width = 160; 
+google_ad_height = 600; 
+google_ad_format = "160x600_as"; 
+google_ad_type = "text_image"; 
+google_ad_channel = ""; 
+google_color_border = "EDF0F5"; 
+google_color_bg = "ffffff"; 
+google_color_link = "003399"; 
+google_color_text = "000000"; 
+google_color_url = "003399"; 
+google_ui_features = "rc:10"; 
+//--> 
+</script> <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> </script>
+
+  
+  <p>&nbsp;</p>
+    <p>&nbsp;</p>
+	  <p>&nbsp;</p>
+	    <p>&nbsp;</p>  <p>&nbsp;</p>
+		  <p>&nbsp;</p>
+</td> <td style="vertical-align:top;padding-top:60px"> 
+
+<a style="background-color:#ddd;padding:18px;color:#000;font-size:16px" href="/rahoituslaskuri">Rahoituslaskuri</a>
+<br/><br/>
+
+<ul>
+
+<li><a target="top"
+href="http://www.a1.fi/rahoitus.asp">A1-autorahoitus</a></li>
+<li><a target="top"
+href="http://www.nordea.fi/Henkil%c3%b6asiakkaat/Lainat+ja+luotot/Ajoneuvot+ja+vapaa-aika/Autolaina/704164.html">Nordea
+autorahoitus yksityisille</a></li>
+<li><a target="top"
+href="https://www.santanderconsumer.fi/tuotteet/laina/Pages/default.aspx">Santanderin
+autolaina</a></li>
+<li><a target="top" href="http://www.sav-rahoitus.fi/">SAV-rahoitus</a></li>
+<li><a target="top" href="http://www.aldautomotive.fi/">ALD
+autoleasing</a></li>
+<li><a target="top"
+href="https://www.danskebank.fi/fi-fi/yritysasiakkaat/keskisuuri-yritys/rahoitus/rahoitusratkaisut/pages/rahoitusratkaisut.aspx">Danske autorahoitus</a></li>
+<li><a target="top"
+href="http://www.toyota.fi/palvelut/rahoitus/index.tmex">Toyotan
+rahoitus</a></li>
+<li><a target="top"
+href="http://delta.fi/Etusivu/Rahoitus/tabid/1131/Default.aspx">Deltan
+autorahoitus</a></li>
+<li><a target="top"
+href="https://www.op.fi/op?cid=150773939&srcpl=3">OP-autoluotto</a></li>
+<li><a target="top"
+href="https://www.handelsbanken.fi/shb/inet/istartfi.nsf/FrameSet?OpenView&amp;iddef=&amp;navid=10_Rahoitus&amp;sa=/Shb/Inet/ICentFi.nsf/Default/qDBD4A37C0A00549EC22578080035FD20">Handelsbanken
+auton osamaksurahoitus</a></li>
+<li><a target="top"
+href="http://www.nissan.fi/FI/fi/tool/nissan-finance/nissan-finance-services.html">Nissan
+rahoitusleasing</a></li>
+
+
+</ul> 
+
+</td> <td valign="top"> <p>&nbsp;</p> <p><b>Autorahoitus.com</b> tarjoaa monipuolista tietoa autorahoituksesta ja autoleasing:st&auml;. 
+Autolaina auttaa rahoittamaan uuden tai k&auml;ytetyn auton hankintaa. 
+Autoluotto on kulutusluotto, joka on otettu auton ostamista varten. 
+Se on vaivaton, turvallinen ja eritt&auml;in joustava tapa rahoittaa uuden tai k&auml;ytetyn auton hankintaa. 
+Kulutusluotto termin alle lasketaan kaikki vakuudettomat ja vakuudelliset luotot jotka on otettu kulutustarkoitukseen, joten autolaina lasketaan yleens&auml; my&ouml;s kulutusluotoksi. 
+Autolainat ovat yleens&auml; melko lyhytaikaisia alle viiden vuoden luottoja, joiden suuruus on tyypillisesti muutamia tuhansia euroja. 
+Autoluottoja tarjoavat autoliikkeet, pankit ja yksitt&auml;iset luottoihin erikoistuneet yritykset.
+</p>
+<p>
+Autoluottojen korot vaihtelevat normaalisti 5-10% v&auml;lill&auml;, mutta joskus voi lainan saada halvemmallakin.
+Yleens&auml; eniten koron suuruuteen vaikuttaa lainan ottajan kyky antaa luotolle vakuuksia, 
+mutta autolainan voi saada ilman vakuuksia tai takaajia. 
+Auto toimii lainan ainakin osaksi vakuutena ja vaihtoauto k&auml;y k&auml;sirahaksi tai ainakin sen osaksi. 
+Yleens&auml; autolainan voi maksaa kokonaan pois ilman erillisi&auml; maksuja. 
+My&ouml;s auton vaihtaminen toiseen sopimuskaudella onnistuu ilman yleens&auml; ilman ylim&auml;&auml;r&auml;isi&auml; kustannuksia. 
+
+Autolaina on luotettava ja turvallinen osamaksusopimus. 
+Voit hakea sit&auml; k&auml;tev&auml;sti autoliikkeest&auml; samalla kertaa, kun olet tekem&auml;ss&auml; kauppoja. 
+P&auml;&auml;t&ouml;s tehd&auml;&auml;n aina nopeasti. 
+
+Yleens&auml; laina maksetaan takaisin tasasuurina kuukausierin&auml;. T&auml;ll&ouml;in erien suuruus on heti tiedossa, eik&auml; markkinakorkojen heilahtelut vaikuta lainan maksuun. 
+</p>
+<p>
+Autoleasing on auton pitk&auml;aikaista vuokrausta usein 3-5 vuoden vuokrasopimuksilla. 
+Autoleasing mahdollistaa auton saamisen k&auml;ytt&ouml;&ouml;n hankintahetkell&auml; edullisemmin kuin ostamalla, ja hankittava auto ei siirry k&auml;ytt&auml;j&auml;n omaisuudeksi.  
+Autoleasing on siit&auml; huoleton tapa rahoittaa auto, ett&auml; siin&auml; vastuu auton huoltamisesta j&auml;&auml; omistajalle. 
+Autoleasing-yritys huolehtii auton huolloista ja k&auml;yt&ouml;st&auml; poistettavien autojen kierr&auml;tyksest&auml;.
+</p>
+<?php 
+echo '<h2>Uutisia</h2><ul>'; 
+// Regular Expressions ohje: http://dev.mysql.com/doc/refman/5.0/en/regexp.html
+echo file_get_contents("http://www.mbreak.fi/uutisvirta.php?key=autorah|autolain|^leasing|lainakor|kulutuslu|liisaus&num=7");
+echo '</ul>'; 
+?>
+
+<img style="margin:9px;align:left;float:left;padding:19px" alt="Tytt&ouml;nen;" width="320" height="214" src="http://www.tietokanta.fi/nainen.jpg" /> <div>
+
+</div> </td> </tr></table>&copy; Copyright Autorahoitus.com&nbsp;
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style">
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4b8991d759ad29d8" class="addthis_button_compact">JAA</a>
+<span class="addthis_separator">|</span>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_myspace"></a>
+<a class="addthis_button_google"></a>
+<a class="addthis_button_twitter"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b8991d759ad29d8"></script>
+<!-- AddThis Button END -->
+</body>
+</html>
